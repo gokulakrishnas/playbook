@@ -1,6 +1,6 @@
 ---
 
 - git:
-    repo: https://github.com/gokulakrishnas/Blackhill.git
+    repo: https://github.com/gokulakrishnas/project.git
     dest: C:\deploy\
     
